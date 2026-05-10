@@ -1,9 +1,15 @@
+# Large files
+data/creditcard.csv
+data/X_train_res.pkl
+data/X_train.pkl
+data/X_test.pkl
+data/y_train.pkl
+data/y_test.pkl
+data/y_train_res.pkl
+
+# Virtual environment
 venv/
-__pycache__/
-*.pyc
 
-data/*.pkl
-data/*.csv
-
-models/
+# Jupyter
 .ipynb_checkpoints/
+__pycache__/
